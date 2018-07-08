@@ -2,8 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 Created on Sat Jul  7 18:54:08 2018
-
-@author: AlmazAhmad
+@author: sp1d5r / Elijah
 """
 
 import datetime          # required because each block will have a timestamp (exact date block was created)
