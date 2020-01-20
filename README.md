@@ -8,7 +8,7 @@ This is a tempelate for a general purpose blockchain I made, It's pretty useless
 * [WebApp Initialisation](#webapp-initialisation)
 * [interacting with the WebApp](#interacting-with-the-webapp)
 * [Running the App](#running-the-app)
-* [Things to Check Out ](#things-to-check-out)
+* [Contact Me](#social-media)
 
 ## The Code
 ```python 
@@ -182,13 +182,10 @@ http://127.0.0.1:5000/getChain
 http://127.0.0.1:5000/mineBlock
 ```
 
-# Things to Check Out
-- Almaz Ahmad - [@Sp1d5r](https://www.instagram.com/sp1d5r) (me)
-
-# Stuck?
-If you need help with anything message me on my socials 
-- [Instagram - @Sp1d5r](https://www.instagram.com/sp1d5r)
-- [Snapchat - @Sp1d5r](https://www.snapchat.com/add/sp1d5r)
-- [Twitter - @Sp1d5r_](https://www.twitter.com/sp1d5r_)
+# Social Media
+- [Linkden - Elijah Ahmad](https://www.linkedin.com/in/elijah-ahmad-658a2b199/)
+- [FaceBook - Elijah Ahmad](https://www.facebook.com/elijah.ahmad.71)
+- [Instagram - @ElijahAhmad__](https://www.instagram.com/ElijahAhmad__)
+- [Snapchat - @Elijah.Ahmad](https://www.snapchat.com/add/elijah.ahmad)
 
 
